@@ -1,0 +1,6 @@
+{
+  "name": "BUSPulse",
+  "description": "BUSPulse — Smart Bus Tracking & Ticketing Platform. Track buses, check timings offline, plan routes, and book QR tickets along the Salem–Erode corridor.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
